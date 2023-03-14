@@ -10,8 +10,8 @@
 
 ## 教育经历
       
-* 新加坡国立大学苏州研究院&emsp;&emsp;&emsp;&emsp;&emsp;2022.9~2023.2&emsp;&emsp;&emsp;&emsp; 电机与计算机工程专业         
-* 苏州大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019.9~2023.2&emsp;&emsp;&emsp;&emsp; 电子信息工程专业-本科  
+* 新加坡国立大学苏州研究院&emsp;&emsp;&emsp;&emsp;&emsp;2022.9~至今&emsp;&emsp;&emsp;&emsp; 电机与计算机工程专业         
+* 苏州大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019.9~至今&emsp;&emsp;&emsp;&emsp; 电子信息工程专业-本科  
 * GPA 3.5（20%）
 
 ## 专业技能
@@ -20,13 +20,13 @@
 * 熟悉Linux下vim开发环境，了解网络编程，IO多路复用，epoll等等
 * 熟悉计算机网络，熟悉TCP三次握手，四次挥手，流量控制，拥塞控制等手段
 * 了解数组，链表等基本数据结构
-* 了解Python，了解opencv基础操作
+* 熟悉Python，了解opencv基础操作
 
 ## 项目经历
 
 1. 基于Linux的WebServer开发 - 独立开发 - 2022年12月- 2023年2月 
-    * 采用模拟 Proactor 的事件处理模式，使用 Socket 网路编程技木实现多台主机之间的通信 
-    * 使月 Epoll 技术买现 I/O 多路复用以提高处理并发连接请求的效率
+    * 采用模拟 Reactor 的事件处理模式，使用 Socket 网路编程技木实现多台主机之间的通信 
+    * 使用 Epoll 技术买现 I/O 多路复用以提高处理并发连接请求的效率
     * 编写主从状态机解析HTTP请求报文
     
 
